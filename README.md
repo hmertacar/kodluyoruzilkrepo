@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.
 
-<center>![Kodluyoruz logo](https://i.hizliresim.com/j2ra9rl.jfif)</center>
+![Kodluyoruz logo](https://i.hizliresim.com/j2ra9rl.jfif)
 
 ## İnstallation
 Öncelikle projeyi klonlayın.
