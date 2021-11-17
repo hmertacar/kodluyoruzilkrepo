@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası ve index.html dosyası barındırıyor.
 
 ![Kodluyoruz logo](https://i.hizliresim.com/j2ra9rl.jfif)
 
